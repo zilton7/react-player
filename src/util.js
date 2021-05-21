@@ -28,6 +28,15 @@ function chillHop() {
       id: uuidv4(),
       active: true,
     },
+    {
+      name: "One Beautiful Composition (2010 Edit)",
+      cover: "https://i.ibb.co/JsK2Jyp/one-beutiful-composition-cover-min.jpg",
+      artist: "The KPS",
+      audio: "http://emusic.lt/download.php?id=9525",
+      color: ["#205950", "#2ab3bf"],
+      id: uuidv4(),
+      active: true,
+    },
   ];
 }
 
