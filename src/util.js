@@ -17,7 +17,7 @@ function chillHop() {
       audio: "https://mp3.chillhop.com/serve.php/?mp3=9248",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "Hears of Mumbai",
@@ -26,7 +26,7 @@ function chillHop() {
       audio: "http://emusic.lt/download.php?id=7802",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
     {
       name: "One Beautiful Composition (2010 Edit)",
@@ -35,7 +35,7 @@ function chillHop() {
       audio: "http://emusic.lt/download.php?id=9525",
       color: ["#205950", "#2ab3bf"],
       id: uuidv4(),
-      active: true,
+      active: false,
     },
   ];
 }
